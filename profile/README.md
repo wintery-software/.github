@@ -10,3 +10,11 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## Projects
+
+### Weat
+
+- [wintery-software/weat: What to eat?](https://github.com/wintery-software/weat)
+- [wintery-software/weat-api: Weat API](https://github.com/wintery-software/weat-api)
+- [wintery-software/weat-streamlit](https://github.com/wintery-software/weat-streamlit)
