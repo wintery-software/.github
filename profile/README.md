@@ -16,6 +16,3 @@
 ### Weat
 
 - [wintery-software/weat: What to eat?](https://github.com/wintery-software/weat)
-- [wintery-software/weat-app: Weat iOS app](https://github.com/wintery-software/weat-app)
-- [wintery-software/weat-api: Weat API](https://github.com/wintery-software/weat-api)
-- [wintery-software/weat-streamlit](https://github.com/wintery-software/weat-streamlit)
