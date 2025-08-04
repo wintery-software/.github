@@ -15,4 +15,4 @@
 
 ### Weat
 
-- [wintery-software/weat: What to eat?](https://github.com/wintery-software/weat)
+- [wintery-software/weat-web: What to eat?](https://github.com/wintery-software/weat-web)
